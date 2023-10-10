@@ -1,0 +1,1 @@
+export const LINK_WEBSITE = "https://veso3mien.censodev.site/";
