@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267745049779",
+    "project_id": "test-notification-androi-816ec",
+    "storage_bucket": "test-notification-androi-816ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267745049779:android:de6686fb135c8e31f984c6",
+        "android_client_info": {
+          "package_name": "com.lottery_app_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtehxmolIcKLIWAkKN66pSgYXvWaE7t90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
